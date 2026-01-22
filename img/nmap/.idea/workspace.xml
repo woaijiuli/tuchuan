@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ddac87b-c92d-4c42-90b7-c7fa26b75749" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/../image-20250509120423840.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image-20250518182458578.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image-20250518182711978.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image-20250518182859698.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image-20250518183030875.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image-20250518183638527.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image-20250518184010814.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image-20250518184105419.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image-20250518184202663.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image-20250518184358932.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image-20250518184605769.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image-20250518184945482.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image-20250518185732917.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image-20250518185819918.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image-20250518185921223.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image-20250518190056056.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image-20250518192638739.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image-20250518192650925.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP7.3.4" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="38bdMr2upuN9zrL2cTnUbQilsFp" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PS-241.14494.237" />
+        <option value="bundled-php-predefined-ba97393d7c68-8f0632a2a215-com.jetbrains.php.sharedIndexes-PS-241.14494.237" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="1ddac87b-c92d-4c42-90b7-c7fa26b75749" name="更改" comment="" />
+      <created>1769072161930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1769072161930</updated>
+      <workItem from="1769072164520" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
